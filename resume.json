@@ -1,0 +1,66 @@
+{
+    "a": {
+        "Name": "Asley Nicole C. Marzan",
+        "Text": "Programmer"},
+    
+    "b": {
+    "Summary": "Summary",
+    "Information": "I am Asley Nicole C. Marzan. I am a first-year Computer Engineering student at the Polytechnic University of the Philippines."},
+
+    "c": {
+    "Home Address": "Location",
+    "Location":[
+        "Address: Metro Manila, Philippines",
+        "PostalCode: 8888",
+        "City: Manila City",
+        "CountryCode: PH",
+        "Region: National Capital Region (NCR)"]},
+
+    "d": {  
+    "Work": "Work Experience",
+    "Experience": [
+        "Company: Ainsoft",
+        "Position: Software Engineer",
+        "Website: http://Ainsoft.com",
+        "Summary: Ainsoft Solutions is proud to be a complete IT solution provider in the field of information technology.",
+        "highlights: The team at Ainsoft Solutions work with a wide range of clients and focuses on many areas.",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+    ]},
+
+    "e": {
+    "Title1": "Education",
+    "Education": [
+        "Institution: Polythechnic University of the Philippines",
+        "Course:Computer Engineering",
+        "Degree: Bachelor",
+        "StartDate: 2021-10-11",
+        "EndDate: 2026-11-11"
+    ]},
+    "f": {
+    "Title2": "Skills",
+    "skills": [
+        "Phython",
+        "HTML",
+        "CSS",
+        "Javascript"
+    ],
+    "Title3": "Language",
+    "languages": [
+        "Language: English, Filipino, and Ilocano",
+        "Fluency: Native speaker"
+    ],
+    "Title4": "Interest",
+    "interests": [
+        "Name: Software",
+        "keywords:",
+        "Web Application",
+        "APIs"
+    ]},
+    "g": {
+    "Contact": "Contact me:",
+    "Email": "Email Address: ashnicolemarzan@gmail.com",
+    "Number": "Contact Number: +(063) 555-4321",
+    "Website": "visit me at http://aslynicol.com"
+    }
+}
